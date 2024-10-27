@@ -160,3 +160,14 @@ body{
         width: 100%;
     }
 }
+
+[class="discover"]{
+  header{
+    display: flex;
+    justify-content: space-evenly;
+  }
+  header img{
+    width: 10%;
+    height: 10%;
+  }
+}
